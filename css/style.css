@@ -589,7 +589,7 @@ nav:before {
   nav link items
 */
 .folded-corner{
-  padding: 25px 25px;
+  padding: 5px 5px 5px 4px;
   position: relative;
   font-size: 90%;
   text-decoration: none;

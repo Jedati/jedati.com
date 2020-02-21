@@ -557,6 +557,12 @@ nav:before {
   text-align: center;
 }
 
+/* imagen servicios responsiva */ 
+.features img {
+	width: 120%;
+  height: auto;
+}
+
 /* ----------------------------------------------------------------
      [ End Features ]
 -----------------------------------------------------------------*/
